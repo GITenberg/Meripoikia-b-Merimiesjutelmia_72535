@@ -1,0 +1,44 @@
+_repo: Meripoikia-b-Merimiesjutelmia_72535
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Palm, Emil
+    aliases:
+    - P., E.
+    - E. P.
+    - Palm, E.
+    gutenberg_agent_id: '56698'
+    url: http://www.gutenberg.org/2009/agents/56698
+creator:
+  author:
+    agent_name: Jacobs, W. W. (William Wymark)
+    alias: Jacobs, William Wymark
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '1865'
+    url: http://www.gutenberg.org/2009/agents/1865
+    wikipedia: https://en.wikipedia.org/wiki/W._W._Jacobs
+description: 'Translated selections from: Sea urchins.'
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72535'
+language: fi
+pgterms:marc905: 20210325085332jacobs
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Humorous stories, English -- Translations into Finnish'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Myrkytetty silli -- Helvetinkone -- Rohkea yritys -- Veli Hutchins
+  -- Nais-ase -- Kaksi yhtä vastaan -- Harmaa papukaija -- Eräs aavehistoria.
+title: 'Meripoikia : $b Merimiesjutelmia'
+url: http://www.gutenberg.org/ebooks/72535
